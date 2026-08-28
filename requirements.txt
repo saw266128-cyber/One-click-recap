@@ -2,3 +2,8 @@ streamlit
 openai
 moviepy
 requests
+imageio
+imageio-ffmpeg
+numpy
+decorator
+tqdm
